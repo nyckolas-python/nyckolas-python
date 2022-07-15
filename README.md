@@ -9,10 +9,14 @@
 <br> 
 [![codewars] (https://www.codewars.com/users/nyckolas-python/badges/small)](https://www.codewars.com/users/nyckolas-python)
 <br>
-![Profile card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyckolas-python&theme=solarized_dark)
-![Language statistics in commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyckolas-python&theme=solarized_dark)
-![Language statistics in the repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyckolas-python&theme=solarized_dark)
-![Profile Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyckolas-python&theme=solarized_dark)
-![Commit data for the day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nyckolas-python&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyckolas-python&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyckolas-python&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyckolas-python&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyckolas-python&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nyckolas-python&theme=solarized_dark)
 ---
   
