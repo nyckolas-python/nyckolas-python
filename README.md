@@ -6,14 +6,10 @@
 - 📫 How to reach me: **nyckolas.python@gmail.com**<br>
 - 📫 My LinkedIn profile:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nyckolas-python/)
-<br> 
+
 [![codewars] (https://www.codewars.com/users/nyckolas-python/badges/small)](https://www.codewars.com/users/nyckolas-python)
-<br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyckolas-python&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyckolas-python&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyckolas-python&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyckolas-python&theme=solarized_dark)
 
