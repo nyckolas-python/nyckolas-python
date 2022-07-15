@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Mykola. My friends call me Nyckolas </h2>
-<h2 align="center">And I'm from Ukraine 🇺🇦 </h2>
+<h2 align="center">And I'm from Ukraine Flag: Ukraine on Apple </h2>
 
 - 🌱 I’m Entry level Python developer with a strong background experience in marketing and business processing.
 - 🌍 I speak Ukrainian (native), Russian (as native), English (B2)
